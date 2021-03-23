@@ -1,0 +1,4 @@
+exposure = 1000ms
+grating= 430.03
+grating 600g/mm at 500nm
+slit = 0.0966
