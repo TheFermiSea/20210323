@@ -18,7 +18,7 @@ ax = fig.add_subplot(111)
 # ax.plot(*calib)
 # ax.plot(peaks,calib[1][peaks],'x')
 
-# Assign peaks in calibration to proper wavelengthds
+# Assign peaks in calibration to proper wavelengths
 P = [435.83, 404.66, 365.02]
 
 
